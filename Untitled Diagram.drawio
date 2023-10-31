@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T02:15:04.807Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="90gOadIWrRdPlTltvmjA" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T02:19:19.618Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="K5JhCw9kH6nqfrPvlEBC" version="22.0.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="741" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="1355" value="贊助/合作" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="810" y="1040" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1357" value="場地佈置" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1357" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;場地佈置&lt;/font&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="973.5" y="411.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1358" value="Dolphin" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -145,37 +145,37 @@
             <mxPoint x="-121.5" y="56.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1388" value="器材買賣" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1388" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;器材買賣&lt;/font&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="913.5" y="341.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1389" value="器材評估" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1389" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;器材評估&lt;/font&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="903.5" y="271.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1390" value="經費來源" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1390" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;經費來源&lt;/font&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="923.5" y="201.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1391" value="人員召集" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1391" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;人員召集&lt;/font&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="963.5" y="141.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1392" value="工作分解" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1392" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;工作分解&lt;/font&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1033.5" y="81.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1393" value="指導來源" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1393" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;指導來源&lt;/font&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1163.5" y="81.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1394" value="場地空間" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1394" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;場地空間&lt;/font&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1233.5" y="141.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1395" value="文案撰寫" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1395" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;文案撰寫&lt;/font&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1283.5" y="201.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1396" value="企劃書編寫" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1396" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;企劃書編寫&lt;/font&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1298.5" y="271.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1397" value="目標明確" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1397" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;目標明確&lt;/font&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1293.5" y="331.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1398" value="需求分析" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1398" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;需求分析&lt;/font&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1238.5" y="401.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1399" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1351" target="1357" edge="1">
@@ -250,10 +250,10 @@
             <mxPoint x="103.5" y="21.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1411" value="申請經費" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1411" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;申請經費&lt;/font&gt;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1611" y="516.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1412" value="時程安排" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1412" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;時程安排&lt;/font&gt;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1946" y="401.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1413" value="Hawk" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -265,25 +265,25 @@
         <mxCell id="1415" value="Sparrow" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1541" y="291.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1416" value="Stork" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1416" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;成員配置&lt;/font&gt;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1631" y="221.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1417" value="訂立學習目標" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1417" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;訂立學習目標&lt;/font&gt;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1766" y="190" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1418" value="品質保證" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1418" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;品質保證&lt;/font&gt;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1861" y="251.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1419" value="比賽訓練" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1419" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;比賽訓練&lt;/font&gt;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1916" y="321.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1420" value="主題規劃" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1420" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;主題規劃&lt;/font&gt;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1691" y="576.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1421" value="經費假設與編排" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1421" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;經費假設與編排&lt;/font&gt;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1781" y="506.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1422" value="會議主持控管" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1422" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;會議主持控管&lt;/font&gt;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1876" y="461.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1423" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1352" target="1411" edge="1">
